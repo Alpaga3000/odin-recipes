@@ -1,0 +1,30 @@
+.title{
+    background-color: rgb(255, 221, 0);
+    margin: 46px;
+    text-align: center;
+    padding:16px;
+}
+.one {
+    text-align: center;
+    background-color: rgb(248, 154, 154);
+    padding: 12px;
+    margin: 26px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.two {
+    text-align: center;
+    background-color: rgb(168, 168, 255);
+    padding: 12px;
+    margin: 26px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.three {
+    text-align: center;
+    background-color: rgb(158, 224, 158);
+    padding: 12px;
+    margin: 26px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
